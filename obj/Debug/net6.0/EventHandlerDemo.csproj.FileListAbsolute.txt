@@ -1,0 +1,15 @@
+D:\Step2Gen\Practice\C#\EventHandlerDemo\bin\Debug\net6.0\EventHandlerDemo.exe
+D:\Step2Gen\Practice\C#\EventHandlerDemo\bin\Debug\net6.0\EventHandlerDemo.deps.json
+D:\Step2Gen\Practice\C#\EventHandlerDemo\bin\Debug\net6.0\EventHandlerDemo.runtimeconfig.json
+D:\Step2Gen\Practice\C#\EventHandlerDemo\bin\Debug\net6.0\EventHandlerDemo.dll
+D:\Step2Gen\Practice\C#\EventHandlerDemo\bin\Debug\net6.0\EventHandlerDemo.pdb
+D:\Step2Gen\Practice\C#\EventHandlerDemo\obj\Debug\net6.0\EventHandlerDemo.csproj.AssemblyReference.cache
+D:\Step2Gen\Practice\C#\EventHandlerDemo\obj\Debug\net6.0\EventHandlerDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Step2Gen\Practice\C#\EventHandlerDemo\obj\Debug\net6.0\EventHandlerDemo.AssemblyInfoInputs.cache
+D:\Step2Gen\Practice\C#\EventHandlerDemo\obj\Debug\net6.0\EventHandlerDemo.AssemblyInfo.cs
+D:\Step2Gen\Practice\C#\EventHandlerDemo\obj\Debug\net6.0\EventHandlerDemo.csproj.CoreCompileInputs.cache
+D:\Step2Gen\Practice\C#\EventHandlerDemo\obj\Debug\net6.0\EventHandlerDemo.dll
+D:\Step2Gen\Practice\C#\EventHandlerDemo\obj\Debug\net6.0\refint\EventHandlerDemo.dll
+D:\Step2Gen\Practice\C#\EventHandlerDemo\obj\Debug\net6.0\EventHandlerDemo.pdb
+D:\Step2Gen\Practice\C#\EventHandlerDemo\obj\Debug\net6.0\EventHandlerDemo.genruntimeconfig.cache
+D:\Step2Gen\Practice\C#\EventHandlerDemo\obj\Debug\net6.0\ref\EventHandlerDemo.dll
